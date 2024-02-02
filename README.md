@@ -4,6 +4,12 @@
 
 This is a website about..
 
+In contains three pages:
+
+* The Home page at index.html
+* The ____ page at _____.html
+* The ____ page at _____.html
+
 It will contain a variety of HTML tags and content to describe the topic.
 
 The tags will include headers, paragraph, lists, images, anchors, and tables.
