@@ -18,6 +18,12 @@ The tags will include headers, paragraph, lists, images, anchors, and tables.
 
 - HTML
 
+## Wireframe
+
+The basic design will look like this low fidelity wireframe.
+
+![wireframe](img/wireframe.png)
+
 ## Roadmap
 
 - [ ] head, title, and body tags
